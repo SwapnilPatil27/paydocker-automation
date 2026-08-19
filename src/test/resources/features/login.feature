@@ -5,6 +5,3 @@ Feature: PayDocker User Authentication
     When the user enters email "arsh@bakuun.com" and password "password123"
     And clicks the Continue button
     Then the user should be redirected to the dashboard
-
-    
-    
